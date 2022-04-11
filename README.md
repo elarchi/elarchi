@@ -25,8 +25,11 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)&emsp;
-[<img width="45px" style="https://vitejs.dev/logo.svg"/>](https://vitejs.dev/)&emsp;
-[<img width="45px" style="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711015/Stack/Axios__computer_library__logo.svg_v22zbe.png"/>](https://axios-http.com/docs/intro)
+[<img width="45px" style="margin-right: 10px" src="https://vitejs.dev/logo.svg"/>](https://vitejs.dev/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711015/Stack/Axios__computer_library__logo.svg_v22zbe.png"/>](https://axios-http.com/docs/intro)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711492/Stack/Javascript_Logo_u2qgnb.png"/>](https://www.javascript.com)&emsp;
+<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711643/Stack/html-1_rkqezf.svg"/>&emsp;
+<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711787/Stack/CSS3_logo.svg_xrgnjc.png"/>&emsp;
 
 ## The tools I use :
 
@@ -46,6 +49,9 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649710646/Stack/Notion_app_logo_rftwbo.png"/>](https://www.notion.so/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701372/Stack/Octicons-mark-github_murw77.svg"/>](https://github.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649710808/Stack/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8_jzjhwh.png"/>](https://www.postman.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649712289/Stack/430-4309574_mongoose-js-logo-hd-png-download_d9udnj.jpg"/>](https://mongoosejs.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649712172/Stack/cloudinary_jf5klc_k7wyts.png"/>](https://mongoosejs.com/)&emsp;
+
 
 
 ## Currently learning :
