@@ -1,6 +1,6 @@
-# Hi there  🌞 I'm Emilie Leury, a React Developer & architect-sociologist 
+# Hi there  🌞 I'm Emilie Leury, React Developer & architect-sociologist 
 
-[ 👉🏾 Looking for a job in United-Kingdom]
+[ 👉🏾 Looking for a job in United-Kingdom, 📍Brighton—London]
 
 I am insatiably curious, always learning, deepening and crossing disciplines to innovate on social and ecological justice projects.
 
@@ -21,12 +21,12 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 ## The stack I work with :
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://fr.reactjs.org/)&emsp;
 [<img width="45px" height="35px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;
-[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org/en/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>](https://expressjs.com/fr/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)&emsp;
-[<img width="45px" style="https://vitejs.dev/logo.svg"/>](https://vitejs.dev/)
+[<img width="45px" style="https://vitejs.dev/logo.svg"/>](https://vitejs.dev/)&emsp;
+[<img width="45px" style="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649711015/Stack/Axios__computer_library__logo.svg_v22zbe.png"/>](https://axios-http.com/docs/intro)
 
 ## The tools I use :
 
@@ -42,7 +42,10 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 [<img width="45px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"/>](https://stripe.com/fr)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701349/Stack/mailgun-logo-png-transparent_hlonlg.png"/>](https://www.mailgun.com/?utm_term=mailgun&utm_campaign=12070351916&utm_content=&utm_source=google&utm_medium=cpc&hsa_grp=119308153667&hsa_cam=750089235&hsa_mt=e&hsa_net=adwords&hsa_ver=3&hsa_acc=2217295277&hsa_ad=491312739064&hsa_src=g&hsa_tgt=kwd-41599135362&hsa_kw=mailgun&gclid=CjwKCAjwo8-SBhAlEiwAopc9W4JyWD7LWos9Ta8EDGKSG_mZT1EvQqMRT2UoXJEziHUaPP5ZHUEwPhoCRFEQAvD_BwE)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701377/Stack/photoshop-1065296_960_720_gy8aay.jpg"/>](https://www.adobe.com/uk/products/photoshop/landpa.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjwo8-SBhAlEiwAopc9W1gr6zeYjL7axYNu3eJkIsfxvVQ1Tz_vOG2QWOszZ5F0HkWffC6FTxoCbM4QAvD_BwE:G:s&s_kwcid=AL!3085!3!441664377297!e!!g!!photoshop!1422700211!58647953511&gclid=CjwKCAjwo8-SBhAlEiwAopc9W1gr6zeYjL7axYNu3eJkIsfxvVQ1Tz_vOG2QWOszZ5F0HkWffC6FTxoCbM4QAvD_BwE)&emsp;
-[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701525/Stack/indesign_oazoah.png"/>](https://www.adobe.com/uk/products/indesign.html)
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701525/Stack/indesign_oazoah.png"/>](https://www.adobe.com/uk/products/indesign.html)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649710646/Stack/Notion_app_logo_rftwbo.png"/>](https://www.notion.so/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649701372/Stack/Octicons-mark-github_murw77.svg"/>](https://github.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649710808/Stack/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8_jzjhwh.png"/>](https://www.postman.com/)&emsp;
 
 
 ## Currently learning :
