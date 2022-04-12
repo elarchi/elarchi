@@ -2,11 +2,13 @@
 
 [ 👉🏾 Looking for a job in the UK, 📍Brighton — London]
 
+I like the fascinating world of programming, the logic of code, and I handle coding getting better every day. 
+
+Exploring UX, agile and design thinking practices is also of great interest to me to feed my development. 
+
 I am insatiably curious, always learning, deepening and crossing disciplines to innovate on social and ecological justice projects.
 
-I like the fascinating world of programming, the logic of code, and I handle **JavaScript**, **React**, **React Native**, **HTML**, **CSS**, **Node.JS**, **Express**, **Axios** and **MongoDB** getting better every day. I also like to explore UX, agile and design thinking practices to continue to feed my development.
-
-I have worked as an architect in several agencies, and lived in several countries — including Brazil and Taiwan — which inspire and influence my work. People, technology and nature guide my approach based on the principles of empowerment, decolonization and ecology.
+I have worked as an architect in several agencies, and lived in several countries — including France, Brazil, United-Kingdom and Taiwan — which inspire and influence my work. People, technology and nature guide my approach based on the principles of empowerment, decolonization and ecology.
 
 For example, as part of my projects as an architect-sociologist and urban-planner, I studied plastic recycling in construction and the reappropriation of space by marginalized communities.
 
