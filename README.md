@@ -63,4 +63,8 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 
 ## Languages I speak:
 
-🇬🇧 🇫🇷 🇧🇷
+🇬🇧 English
+
+🇫🇷 French
+
+🇧🇷 Portuguese
