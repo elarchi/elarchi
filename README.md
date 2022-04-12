@@ -1,6 +1,6 @@
 # Hi there  🌞 I'm Emilie Leury, React Developer & architect-sociologist 
 
-[ 👉🏾 Looking for a job in the UK, 📍Brighton—London]
+[ 👉🏾 Looking for a job in the UK, 📍Brighton — London]
 
 I am insatiably curious, always learning, deepening and crossing disciplines to innovate on social and ecological justice projects.
 
