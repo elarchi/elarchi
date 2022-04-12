@@ -20,7 +20,7 @@ My online resume: here.
 Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 
 
-## The stack I work with :
+## The stack I work with:
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://fr.reactjs.org/)&emsp;
 [<img width="45px" height="35px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>](https://expressjs.com/fr/)&emsp;
@@ -36,7 +36,7 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1649757167/Stack/Tailwind_CSS_Logo.svg_wu5pvt.png"/>](https://tailwindcss.com/)&emsp;
 
 
-## The tools I use :
+## The tools I use:
 
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>](https://git-scm.com/)&emsp;
@@ -57,6 +57,10 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 
 
 
-## Currently learning :
+## Currently learning:
 
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;
+
+## Languages I speak:
+
+🇬🇧 🇫🇷 🇧🇷
