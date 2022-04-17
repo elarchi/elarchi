@@ -1,6 +1,17 @@
-# Hi there  🌞 I'm Emilie Leury, React Developer & architect-sociologist 
+# Hi there  🌞 I'm Emilie Leury, React Developer*
 
-[ 👉🏾 Looking for a job in the UK, 📍Brighton — London]
+*And architect-sociologist 🙃
+
+_
+
+
+**👉🏾 Looking for a job in the UK**
+
+**📍 Brighton — London**
+
+_
+
+
 
 I like the fascinating world of programming, the logic of code, and I handle coding getting better every day. 
 
@@ -14,7 +25,7 @@ For example, as part of my projects as an architect-sociologist and urban-planne
 
 Today I am looking for a position as a junior developer to put my plural skills to good use on an inspiring, innovative and challenging tech project. Is this yours? 👀
 
-### More infos:
+### More info:
 My online resume: here.
 
 Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
@@ -72,8 +83,10 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 🇧🇷 Portuguese
 
 ## Overview of my projects
-### 🧑‍🏫 DOOUNOO, MVP challenge — 10 days as a developer and a product owner
+### 🧑‍🏫 DOOUNOO, MVP challenge — 10 days as a developer and product owner
 ![output_9y2E17](https://user-images.githubusercontent.com/96998011/163722985-e985dc78-d1f0-455c-bd0c-b8875b83fda5.gif)
+
+_
 
 ### 🚘 SIXT, car rental app — copy of the official website
 ![output_PXNDRY](https://user-images.githubusercontent.com/96998011/163721778-4f133a2d-14a0-4d1d-a580-3408189b68ec.gif)
@@ -81,6 +94,8 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
  [👉🏾  Front repository](https://github.com/elarchi/SIXT-front-phenix/)
  
  [👉🏾 Back repository](https://github.com/elarchi/SIXT-back)
+ 
+ _
 
 ### 👚 Vinted — copy of the official website
 ![output_I6CPOH](https://user-images.githubusercontent.com/96998011/163724402-982598ae-acbb-413c-a3e4-27304abb6c19.gif)
@@ -88,14 +103,18 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 [👉🏾  Front repository](https://github.com/elarchi/react-vinted)
  
  [👉🏾 Back repository](https://github.com/elarchi/vinted-repository)
+ 
+ _
+ 
 ### 🦜 Welcome-on-board! — creation
 ![output_ewNZmK](https://user-images.githubusercontent.com/96998011/163724708-7c8d4175-bcbe-4354-952d-737a5e09065b.gif)
 
 [👉🏾  Front repository](https://github.com/elarchi/welcome-on-board-front)
  
+_
 
 
-### 🦸🏾‍♀️ Marvel — creation inspired by Marvel universe
+### 🦸🏾‍♀️ Marvel — creation inspired by the Marvel universe
 ![output_F2Jl6i](https://user-images.githubusercontent.com/96998011/163723547-1f9ac651-0051-44c2-aa2f-4adaf5009e08.gif)
 
 [👉🏾  Front repository](https://github.com/elarchi/marvel-project_front)
