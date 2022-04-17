@@ -72,11 +72,25 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 🇧🇷 Portuguese
 
 ## Overview of my projects
-### SIXT, car rental app — copy of the official website
+### 🧑‍🏫 DOOUNOO, MVP challenge — 10 days as a developer and a product owner
+![output_9y2E17](https://user-images.githubusercontent.com/96998011/163722985-e985dc78-d1f0-455c-bd0c-b8875b83fda5.gif)
 
-### DOOUNOO, MVP challenge — 10 days
+### 🚘 SIXT, car rental app — copy of the official website
+![output_PXNDRY](https://user-images.githubusercontent.com/96998011/163721778-4f133a2d-14a0-4d1d-a580-3408189b68ec.gif)
 
-### Deliveroo — copy of the official website
-### Vinted — copy of the official website
-### Welcome-on-board! — creation
-### Marvel — creation inspired by Marvel universe
+ [👉🏾  Front repository](https://github.com/elarchi/SIXT-front-phenix/)
+ 
+ [👉🏾 Back repository](https://github.com/elarchi/SIXT-back)
+
+
+### 📦🥙 Deliveroo — copy of the official website
+### 👚 Vinted — copy of the official website
+### 🦜 Welcome-on-board! — creation
+
+### 🦸🏾‍♀️ Marvel — creation inspired by Marvel universe
+![output_F2Jl6i](https://user-images.githubusercontent.com/96998011/163723547-1f9ac651-0051-44c2-aa2f-4adaf5009e08.gif)
+
+[👉🏾  Front repository](https://github.com/elarchi/marvel-project_front)
+ 
+ [👉🏾 Back repository](https://github.com/elarchi/marvel-project_back)
+
