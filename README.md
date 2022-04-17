@@ -25,10 +25,12 @@ For example, as part of my projects as an architect-sociologist and urban-planne
 
 Today I am looking for a position as a junior developer to put my plural skills to good use on an inspiring, innovative and challenging tech project. Is this yours? 👀
 
-### More info:
 My online resume: here.
 
-Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
+### Contact me:
+
+
+[👉🏾 Linkedin](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 
 
 ## The tech I work with:
