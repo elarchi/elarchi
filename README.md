@@ -85,6 +85,11 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 
 ### 📦🥙 Deliveroo — copy of the official website
 ### 👚 Vinted — copy of the official website
+![output_I6CPOH](https://user-images.githubusercontent.com/96998011/163724402-982598ae-acbb-413c-a3e4-27304abb6c19.gif)
+
+[👉🏾  Front repository](https://github.com/elarchi/react-vinted)
+ 
+ [👉🏾 Back repository](https://github.com/elarchi/vinted-repository)
 ### 🦜 Welcome-on-board! — creation
 
 ### 🦸🏾‍♀️ Marvel — creation inspired by Marvel universe
