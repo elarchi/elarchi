@@ -87,9 +87,7 @@ _
 ### 🚘 SIXT, car rental app — copy of the official website
 ![output_PXNDRY](https://user-images.githubusercontent.com/96998011/163721778-4f133a2d-14a0-4d1d-a580-3408189b68ec.gif)
 
- [👉🏾  Front repository](https://github.com/elarchi/SIXT-front-phenix/)
- 
- [👉🏾 Back repository](https://github.com/elarchi/SIXT-back)
+To get the repository links, please DM me (it's a super secret project 🕵🏾‍♀️).
  
  _
 
