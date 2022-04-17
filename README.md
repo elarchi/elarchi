@@ -70,3 +70,13 @@ Linkedin: [here](https://www.linkedin.com/in/emilie-leury-30a1aa89/).
 🇫🇷 French
 
 🇧🇷 Portuguese
+
+## Overview of my projects
+### SIXT, car rental app — copy of the official website
+
+### DOOUNOO, MVP challenge — 10 days
+
+### Deliveroo — copy of the official website
+### Vinted — copy of the official website
+### Welcome-on-board! — creation
+### Marvel — creation inspired by Marvel universe
