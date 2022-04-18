@@ -1,4 +1,4 @@
-# Hi there  🌞 I'm Emilie Leury, React Developer*
+# Hi there  🌞 I'm Emilie Leury, Junior React Developer*
 
 *And architect-sociologist 🙃
 
