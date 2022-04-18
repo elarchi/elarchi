@@ -107,6 +107,11 @@ To get the repository links, please DM me (it's a super secret project 🕵🏾�
  _
  
 ### 🦜 Welcome-on-board! — creation
+
+Personal creation project to get my hands on figma, play and discover a little the UX universe.
+
+The app currently allows you to create your todo-list. I plan to add many features to get a travel organizer app.
+
 ![output_ewNZmK](https://user-images.githubusercontent.com/96998011/163724708-7c8d4175-bcbe-4354-952d-737a5e09065b.gif)
 
 [👉🏾  Front repository](https://github.com/elarchi/welcome-on-board-front)
@@ -115,6 +120,11 @@ _
 
 
 ### 🦸🏾‍♀️ Marvel — creation inspired by the Marvel universe
+
+This project allowed me to learn how to make API requests.
+
+I would like to eventually add responsive features and "signup" and "login" access. Work in progress!
+
 ![output_F2Jl6i](https://user-images.githubusercontent.com/96998011/163723547-1f9ac651-0051-44c2-aa2f-4adaf5009e08.gif)
 
 [👉🏾  Front repository](https://github.com/elarchi/marvel-project_front)
