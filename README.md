@@ -82,6 +82,10 @@ My online resume: here.
 ### 🧑‍🏫 DOOUNOO, MVP challenge — 10 days as a developer and product owner
 ![output_9y2E17](https://user-images.githubusercontent.com/96998011/163722985-e985dc78-d1f0-455c-bd0c-b8875b83fda5.gif)
 
+[👉🏾  Front repository](https://github.com/DOOUNOO/front)
+ 
+ [👉🏾 Back repository](https://github.com/DOOUNOO/back)
+ 
 _
 
 ### 🚘 SIXT, car rental app — copy of the official website
