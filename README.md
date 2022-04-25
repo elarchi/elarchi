@@ -118,7 +118,8 @@ The app currently allows you to create your todo-list. I plan to add many featur
 
 [👉🏾  Front repository](https://github.com/elarchi/welcome-on-board-front)
 
-[👉🏾 Website]https://welcome-on-board-by-elarchi.netlify.app/)
+[👉🏾 Website](https://welcome-on-board-by-elarchi.netlify.app/)
+
 _
 
 
