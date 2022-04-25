@@ -19,7 +19,7 @@ I am insatiably curious, and leverage my previous architecture experiences in ev
 
 Today I am looking for a position as a junior developer to put my plural skills to good use.
 
-My online resume: [here](https://issuu.com/emleury/docs/leury-emilie-cv).
+[👉🏾 My online resume](https://issuu.com/emleury/docs/leury-emilie-cv).
 
 ### Contact me:
 
