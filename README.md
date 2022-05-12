@@ -70,6 +70,8 @@ Today I am looking for a position as a junior developer to put my plural skills 
 
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1652222376/Stack/1200px-Python-logo-notext.svg_hh4e78.png"/>](https://www.python.org/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dn7zdnm89/image/upload/v1652341353/Stack/django-logo-negative_foud9t.png"/>](https://www.djangoproject.com/)&emsp;
+
 
 
 ## Languages I speak:
