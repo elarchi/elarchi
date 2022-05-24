@@ -2,7 +2,7 @@
 
 *And architect-sociologist 🙃
 
-![](https://komarev.com/ghpvc/?username=elarchi&color=green)
+
 
 _
 
@@ -142,4 +142,4 @@ I would like to eventually add responsive features and "signup" and "login" acce
  [👉🏾 Back repository](https://github.com/elarchi/marvel-project_back)
 
 
-
+![](https://komarev.com/ghpvc/?username=elarchi&color=green)
