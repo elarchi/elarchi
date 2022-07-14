@@ -1,15 +1,18 @@
 # Hi there  🌞 I'm Emilie Leury, a Junior UX Designer/React Developer*
 
-*And architect-sociologist 🙃
+*And architect who loves sociology and anthropology 🙃
 
 
 
 _
 
 
-**👉🏾 Looking for a job in the UK**
+**👉🏾 Looking for freelance/job in France/Portugal**
 
-**📍 Brighton — London**
+**📍 Paris Île-de-France**
+
+![](https://komarev.com/ghpvc/?username=elarchi&color=green)
+
 
 _
 
