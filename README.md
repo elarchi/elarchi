@@ -7,7 +7,7 @@
 _
 
 
-**👉🏾 Looking for freelance/job in France/Portugal**
+**👉🏾 Looking for freelance/job in France or Portugal**
 
 **📍 Paris Île-de-France**
 
