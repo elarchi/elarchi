@@ -1,7 +1,4 @@
-# Hi there  🌞 I'm Emilie Leury, a Junior UX Designer/React Developer*
-
-*And architect who loves sociology and anthropology 🙃
-
+# Hi there  🌞 I'm Emilie Leury, an Architect who loves coding and UX design!
 
 
 _
