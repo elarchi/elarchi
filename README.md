@@ -1,15 +1,9 @@
-# Hi there  🌞 I'm Emilie Leury, an Architect who loves coding and UX design!
+# Hi there  🌞 I'm Emilie Leury, a Web Developer, UX Designer and an Architect part.III
 
 
 _
 
-
-**👉🏾 Looking for freelance/job in France or Portugal**
-
-**📍 Paris Île-de-France**
-
 ![](https://komarev.com/ghpvc/?username=elarchi&color=green)
-
 
 _
 
