@@ -1,4 +1,4 @@
-# Hi there 👾 I'm Emilie Leury, 
+# Hi there 👾 I'm Emilie Leury
 # A Web Developer, UX Designer and an Architect part.III
 
 
