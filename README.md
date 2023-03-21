@@ -13,7 +13,7 @@ I love the logic of code and building delightful user experiences. With a little
 
 I am insatiably curious, and leverage my previous architecture experiences in everything I do. I cross disciplines to keep innovating across tech, social and ecological justice.
 
-Today I am looking for a position as a junior developer or junior UX designer to put my plural skills to good use.
+Today I am working as a Web Developer/UX Designer for an ecological company in Paris : Proclus.
 
 [👉🏾 My online resume](https://issuu.com/emleury/docs/leury-emilie-cv).
 
