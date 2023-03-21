@@ -1,4 +1,5 @@
-# Hi there 👾 I'm Emilie Leury, a Web Developer, UX Designer and an Architect part.III
+# Hi there 👾 I'm Emilie Leury, 
+# A Web Developer, UX Designer and an Architect part.III
 
 
 _
