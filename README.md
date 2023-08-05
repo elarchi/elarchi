@@ -1,5 +1,5 @@
 # Hi there 👾 I'm Emilie Leury
-# A Web Developer, UX Designer and an Architect part.III
+# An Architect and UX designer who likes coding
 
 
 _
@@ -12,9 +12,9 @@ _
 
 I love the logic of code and building delightful user experiences. With a little help from UX, agile and design thinking practices, I keep getting better every day and I love that too - learning.
 
-I am insatiably curious, and leverage my previous architecture experiences in everything I do. I cross disciplines to keep innovating across tech, social and ecological justice.
+I am insatiably curious and leverage my previous architecture experiences in everything I do. I cross disciplines to keep innovating across tech, social and ecological justice.
 
-Today I am working as a Web Developer/UX Designer for an ecological company in Paris : Proclus.
+Today I am working as a Web Developer/UX Designer for an ecological company in Paris: Proclus.
 
 [👉🏾 My online resume](https://issuu.com/emleury/docs/leury-emilie-cv).
 
